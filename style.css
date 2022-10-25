@@ -59,7 +59,7 @@ img {
 .container p:first-of-type {
     margin-top: 1.875rem;
     font-size: 1.25rem;
-    font-weight: 700;
+    font-weight: 600;
     padding: 0 1.25rem;
     color: var(--dark-blue);
 }
