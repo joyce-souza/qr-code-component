@@ -8,7 +8,7 @@ This is my solution to the qr code component challenge on Frontend Mentor Websit
 
 ## Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-LmMOw191I1
 - Live Site URL: https://joyce-souza.github.io/qr-code-component/
 
 ## Built with
