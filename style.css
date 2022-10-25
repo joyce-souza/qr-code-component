@@ -60,7 +60,7 @@ img {
 .container p:first-of-type {
     margin-top: 30px;            
     font-size: 1.25rem;            /*20px*/
-    font-weight: 600;
+    font-weight: 700;
     padding: 0 20px;            
     color: var(--dark-blue);
 }
